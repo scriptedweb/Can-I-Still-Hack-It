@@ -22,3 +22,4 @@ Observe → Hypothesize → Test → Exploit → Explain → Remember
 | # | Vulnerability | Lab | Status |
 |---|---|---|---|
 | 01 | IDOR / BOLA | OWASP Juice Shop | ✅ |
+| 02 | VERTICAL, HORIZONTAL PRIVILEGE ESCALATION & BUSINESS LOGIC FLAWS | VulnBank| ✅ |
