@@ -71,6 +71,9 @@ I subsequently tested the withdrawal functionality against the resulting balance
 The workflow demonstrated how weaknesses in authorization combined with business-logic controls can potentially allow actions that should be restricted by the application's rules.
 
 ---
+## Simulation Link on YouTube 
+
+https://youtu.be/U4vvlTD-Pgs
 
 ## Key Lessons
 
